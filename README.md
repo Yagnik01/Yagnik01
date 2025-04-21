@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/https://www.instagram.com/yagnik_chavda_07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yagnik_chavda_07/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/yagnik_chavda_07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yagnik_chavda_07/" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/yagnik_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yagnik_1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yagnik_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yagnik_07" height="30" width="40" /></a>
 <a href="https://discord.gg/yagnik0371_08735" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yagnik0371_08735" height="30" width="40" /></a>
